@@ -33,11 +33,10 @@ Como responsável pelo hardware e firmware, atuei na:
 
   ### 📸 Demonstração do Hardware e Dashboard
 ![Circuito do Projeto](Midias/Hardware.jpeg)
-![Interface do Dashboard](Midias/Dashboard.jpeg)
-![Apresentação do Projeto](Midias/Foto_Equipe.jpeg)
+![Interface do Dashboard](Midias/Software.jpeg)
+![Apresentação do Projeto](Midias/Apresentaçãodoprojeto.jpeg)
 
-### 🎥 Vídeo do Sistema em Operação
-https://github.com/PVgames11/esp32-automacao-hidrico-telemetria/blob/main/Midias/V%C3%ADdeo%20da%20bomba%20funcionando.mp4
+
 
 ---
 *Nota: Este repositório foca na camada de firmware e hardware do sistema.*
